@@ -1,0 +1,3 @@
+include:
+  - project: ci/template
+    file: /shellcheck.gitlab-ci.yml
