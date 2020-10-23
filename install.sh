@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -eu
 
 DOTFILES="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 
